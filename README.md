@@ -1,4 +1,4 @@
-# app_conference
+# Final Year Project // Hadeer: Employee Attendance Mobile Application
 
 A new Flutter project.
 
