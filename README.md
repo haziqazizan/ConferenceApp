@@ -1,6 +1,6 @@
-# Final Year Project // Hadeer: Employee Attendance Mobile Application
+# Final Year Project // Projek Tahun Akhir
 
-A new Flutter project.
+Final Year Project for my Degree , Bachelor Of Information Technology (HONS) In Software Engineering at Universiti Kuala Lumput (UniKL).
 
 ## Getting Started
 
