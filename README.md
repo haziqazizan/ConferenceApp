@@ -9,6 +9,12 @@ Hadeer: Employee Attendance Mobile Application is a mobile application where use
 - Use Dart (Flutter Framework) to develop mobile application,
 - Use Google Cloud Firebase Database as live database
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-- HEAMA allow user to register and login to the system .
+-- HEAMA able to get the OTP as provide a phone number as authentication.
+-- HEAMA able to manage user attendance along with record their current location. 
+-- HEAMA allow user to download report of their attendance based on their record in database. 
+-- HEAMA allow user to manage leave application. 
+
+HEAMA is currently missing it key feature, which was to allow user to only take their attendance once their location is exactly at the premise located, and allow user to take a selfie first before take their attendance as credential feature.Future update will surely have the missing function completely developed.
+
+updated on 13/6/2022
